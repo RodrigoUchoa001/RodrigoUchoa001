@@ -63,6 +63,6 @@
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rodrigouchoa001&&style=flat-square" align="center" />
-</div>  
+</div>   -->
