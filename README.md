@@ -54,11 +54,11 @@
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rodrigouchoa001&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rodrigouchoa001&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigouchoa001&show_icons=true&locale=en&layout=compact&theme=radical" alt="rodrigouchoa001" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigouchoa001&show_icons=true&locale=en&layout=compact&theme=dark" alt="rodrigouchoa001" /></div>
 
 <br/>  
   
