@@ -2,7 +2,7 @@
   
 <br/>
 
-- 🌱 I'm currently in the VII period of the university of Computer Science.
+- 🌱 I'm currently in the VIII period of the university of Computer Science.
 
 - 🌱 I’m currently learning Flutter.
 
