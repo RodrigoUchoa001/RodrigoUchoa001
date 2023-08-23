@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Flutter.
 
-- 🔭 I’m currently working on [Workout Assistant](https://github.com/RodrigoUchoa001/workout-assistant).
+- 🔭 I’m currently working on [Offline Spotify](https://github.com/RodrigoUchoa001/offline-spotify).
 
 - 📫 How to reach me: **franciscorferreira@aluno.uespi.br**.
 
