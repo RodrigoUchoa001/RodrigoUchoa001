@@ -55,7 +55,11 @@
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RodrigoUchoa001&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=RodrigoUchoa001&theme=dark&hide_border=true" align="center" /></div>  
+
+<br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rodrigouchoa001&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
