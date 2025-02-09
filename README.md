@@ -51,17 +51,16 @@
 
 ## Github Stats
 
-
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=RodrigoUchoa001&theme=dark&hide_border=true" align="center" /></div>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=RodrigoUchoa001&theme=dracula&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rodrigouchoa001&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
+![RodrigoUchoa001's Stats](https://github-readme-stats.vercel.app/api?username=RodrigoUchoa001&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigouchoa001&show_icons=true&locale=en&layout=compact&theme=dark" alt="rodrigouchoa001" /></div>
+![RodrigoUchoa001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoUchoa001&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
 
 <br/>  
   
