@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently in the VIII period of the university of Computer Science.
 
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Web Development with React + Vite.
 
 - 📫 How to reach me: **franciscorferreira@aluno.uespi.br**.
 
